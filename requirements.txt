@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+click
+numpy
+pandas
+scikit-learn
+transformers
+torch
+deep_translator
+requests
